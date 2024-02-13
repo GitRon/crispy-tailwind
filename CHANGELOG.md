@@ -1,6 +1,11 @@
 CHANGELOG
 =========
 
+1.0.2 - 2024-02-13
+------------------
+
+* Fixed stray closing divs in template files
+
 1.0.1 - 2024-02-06
 ------------------
 
